@@ -1,0 +1,5 @@
+localhost
+root
+
+Shows
+3305

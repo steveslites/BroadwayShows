@@ -1,0 +1,84 @@
+body {
+    background-color: #9EF8EE;
+    color: #FA7F08;
+    font-size: 1.2em;
+}
+
+.btnPic {
+    border: 0;
+    background-color: #9EF8EE;
+}
+
+button{
+    color: white;
+    font-size: 1em;
+    width: 6.5em;
+    background-color: #FA7F08;
+    border-radius: 0.5em;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    border: 0;
+}
+
+input {
+    background-color: #E2837D;
+}
+
+.datapair {
+    margin-top: 1.2em;    
+    margin-bottom: 1.2em;
+}
+
+table {
+    border: solid;
+    border-width: 0.25em;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+th {
+    border: solid;
+    border-width: 0.1em;
+    border-color: black;
+}
+
+td {
+    border: solid;
+    border-width: 0.1em;
+    border-color: black;
+}
+
+.tableShowName {
+    width: 10em;
+    text-align: left;
+    margin-right: auto;
+    margin-left: 0;
+}
+
+.tablePerformanceDateAndTime {
+    width: 13em;
+    text-align: left;
+    margin-right: auto;
+    margin-left: 0;
+}
+
+.tableNumberOfTickets {
+    width: 10em;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tableTicketPrice {
+    width: 6em;
+    text-align: right;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.tableTotalCost {
+    width: 6em;
+    text-align: right;
+    margin-right: 0;
+    margin-left: auto;
+}
